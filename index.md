@@ -1,3 +1,7 @@
+---
+title: "Conscious"
+date: 2019-03-08
+---
 # Welcome to my blog
 
 I'm glad you are here. I plan to talk about vaious things and my experiences.
